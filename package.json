@@ -1,0 +1,16 @@
+{
+  "name": "chetan_dsa_dev_packages",
+  "version": "1.0.0",
+  "description": "create some dsa related logics so developer can solve logical problems easily ",
+  "main": "./dsa_logics/DSA.js",
+  "scripts": {
+    "start":"nodemon dsa_logics/DSA.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dsa_logics",
+    "dsa_problem_solution"
+  ],
+  "author": "chetan kaushik",
+  "license": "ISC"
+}
